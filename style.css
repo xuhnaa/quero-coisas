@@ -1,0 +1,17 @@
+header {
+    font-size: 50px;
+    color:rgb(255, 91, 70) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+  }
+  body {
+    background-image: url("Design sem nome.png");
+    background-size: cover;
+}
+
